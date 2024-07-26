@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tittle-register {
+    text-align: center;
+    margin: 10px 0;
+}
+.content-container {
+    background-color: antiquewhite;
+    width: 100%;
+    margin: 0 auto;
+}
+.login-btn {
+    margin: 10px;
+    padding: 10px;
+}
+.input-size-pos {
+    width: 500px;
+    margin: 0 auto;
+}
+.input-theme-sytle {
+    background-color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+.input-size-btn {
+    width: fit-content;
+    margin: 20px auto 10px;
+}
+.agree-terms {
+    padding: 10px 0;
+}
+.already-account {
+    text-align: center;
+    padding: 20px 0;
+}
+.btn-sign {
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.701);
+    border: 1px solid rgb(255, 255, 255);
+}
+.forgot-btn {
+    padding: 0 0 10px;
+}
+.digit-group {
+    display: flex;
+    width: 40%;
+    gap: 50px;
+    margin: 0 auto;
+}
+.form-control {
+    margin: 10px 0 0;
+    border-radius: 10px !important;
+    width: 50px !important;
+    height: 50px !important;
+}
+.register-label {
+    margin: 10px 0;
+}
+.input-size-pos {
+    position: relative;
+    margin-bottom: 20px;
+}
+.input-theme-sytle {
+    width: 100%;
+    padding-right: 50px;
+}
+.show-password-toggle {
+    position: absolute;
+    top: 70%;
+    right: 15px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+.register-label {
+    display: block;
+    margin-bottom: 5px;
+}
